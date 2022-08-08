@@ -1,6 +1,9 @@
 # LandDataTools
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://AlexisRenchon.github.io/LandDataTools.jl/stable/)
+[![LandDataTools Downloads](https://shields.io/endpoint?url=https://pkgs.genieframework.com/api/v1/badge/LandDataTools)](https://pkgs.genieframework.com?packages=LandDataTools)
+![version](https://img.shields.io/badge/version-0.1.0-green)
+
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://AlexisRenchon.github.io/LandDataTools.jl/dev/)
 [![Build Status](https://github.com/AlexisRenchon/LandDataTools.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/AlexisRenchon/LandDataTools.jl/actions/workflows/CI.yml?query=branch%3Amain)
 [![Coverage](https://codecov.io/gh/AlexisRenchon/LandDataTools.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/AlexisRenchon/LandDataTools.jl)
